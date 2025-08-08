@@ -52,7 +52,7 @@ section{
     padding-left: 40px;
     line-height: 2em;
     font-family: var(--font3);
-    font-size: calc(18px + 1vw);
+    font-size: calc(20px + 1vw);
 }
 
 section > p{
